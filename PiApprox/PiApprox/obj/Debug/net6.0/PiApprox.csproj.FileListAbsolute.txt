@@ -1,0 +1,15 @@
+H:\GitHub\PiApprox\PiApprox\PiApprox\bin\Debug\net6.0\PiApprox.exe
+H:\GitHub\PiApprox\PiApprox\PiApprox\bin\Debug\net6.0\PiApprox.deps.json
+H:\GitHub\PiApprox\PiApprox\PiApprox\bin\Debug\net6.0\PiApprox.runtimeconfig.json
+H:\GitHub\PiApprox\PiApprox\PiApprox\bin\Debug\net6.0\PiApprox.dll
+H:\GitHub\PiApprox\PiApprox\PiApprox\bin\Debug\net6.0\PiApprox.pdb
+H:\GitHub\PiApprox\PiApprox\PiApprox\obj\Debug\net6.0\PiApprox.csproj.AssemblyReference.cache
+H:\GitHub\PiApprox\PiApprox\PiApprox\obj\Debug\net6.0\PiApprox.GeneratedMSBuildEditorConfig.editorconfig
+H:\GitHub\PiApprox\PiApprox\PiApprox\obj\Debug\net6.0\PiApprox.AssemblyInfoInputs.cache
+H:\GitHub\PiApprox\PiApprox\PiApprox\obj\Debug\net6.0\PiApprox.AssemblyInfo.cs
+H:\GitHub\PiApprox\PiApprox\PiApprox\obj\Debug\net6.0\PiApprox.csproj.CoreCompileInputs.cache
+H:\GitHub\PiApprox\PiApprox\PiApprox\obj\Debug\net6.0\PiApprox.dll
+H:\GitHub\PiApprox\PiApprox\PiApprox\obj\Debug\net6.0\refint\PiApprox.dll
+H:\GitHub\PiApprox\PiApprox\PiApprox\obj\Debug\net6.0\PiApprox.pdb
+H:\GitHub\PiApprox\PiApprox\PiApprox\obj\Debug\net6.0\PiApprox.genruntimeconfig.cache
+H:\GitHub\PiApprox\PiApprox\PiApprox\obj\Debug\net6.0\ref\PiApprox.dll
