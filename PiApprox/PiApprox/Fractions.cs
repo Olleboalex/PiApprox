@@ -27,6 +27,7 @@ namespace Fractions
                 a = b;
                 b = temp % b;
             }
+
             return a;
         }
 
