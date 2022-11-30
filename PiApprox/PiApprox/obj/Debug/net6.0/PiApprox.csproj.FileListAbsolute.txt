@@ -13,3 +13,11 @@ H:\GitHub\PiApprox\PiApprox\PiApprox\obj\Debug\net6.0\refint\PiApprox.dll
 H:\GitHub\PiApprox\PiApprox\PiApprox\obj\Debug\net6.0\PiApprox.pdb
 H:\GitHub\PiApprox\PiApprox\PiApprox\obj\Debug\net6.0\PiApprox.genruntimeconfig.cache
 H:\GitHub\PiApprox\PiApprox\PiApprox\obj\Debug\net6.0\ref\PiApprox.dll
+H:\GitHub\PiApprox\PiApprox\PiApprox\bin\Debug\net6.0\ClosedXML.dll
+H:\GitHub\PiApprox\PiApprox\PiApprox\bin\Debug\net6.0\DocumentFormat.OpenXml.dll
+H:\GitHub\PiApprox\PiApprox\PiApprox\bin\Debug\net6.0\ExcelNumberFormat.dll
+H:\GitHub\PiApprox\PiApprox\PiApprox\bin\Debug\net6.0\Irony.dll
+H:\GitHub\PiApprox\PiApprox\PiApprox\bin\Debug\net6.0\SixLabors.Fonts.dll
+H:\GitHub\PiApprox\PiApprox\PiApprox\bin\Debug\net6.0\System.IO.Packaging.dll
+H:\GitHub\PiApprox\PiApprox\PiApprox\bin\Debug\net6.0\XLParser.dll
+H:\GitHub\PiApprox\PiApprox\PiApprox\obj\Debug\net6.0\PiApprox.csproj.CopyComplete
